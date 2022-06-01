@@ -519,6 +519,9 @@
   .valores {
     display: block;
   }
+  .valores div h3 {
+    text-align: left;
+  }
   .valores-card {
     display: -webkit-box;
     display: -ms-flexbox;
